@@ -28,5 +28,5 @@ else {
 }
 
 //ternari
-let food1 = money > 100 ? 'briyani' : 'chaaaa biskut';
+let food1 = money > 100 ? 'briyani' : 'chaaaa v  biskut';
 console.log(food1)
